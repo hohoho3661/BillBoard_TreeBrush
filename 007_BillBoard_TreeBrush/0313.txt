@@ -1,0 +1,19 @@
+framework
+   model
+	material
+ 	modelbone -  bone정보(중심점 위치)를 가지고있음,,
+ 	modelmesh - 그리기위한 mesh의 정보(bone의 번호를 가지고있슴)
+		    - 버텍스, 인덱스 버퍼를 가지고있슴
+ 	meshpart - mesh를 기준으로 part를 나눔
+		- material번호, start번호, 몇개그릴지의 정보를가지고 그려줌
+		- 따라서 최종 그리는건 여기서함
+
+
+export
+ - 여기서 type을 loader해서
+    export로
+
+--------------------------
+
+model
+ - material

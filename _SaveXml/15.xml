@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BillBoard>
+        <Position position.x="35.470665" position.y="19.534252" position.z="97.74778"/>
+        <Scale scale.x="5.0125127" scale.y="10.635853" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="38.610409" position.y="20.560406" position.z="99.492218"/>
+        <Scale scale.x="10.850094" scale.y="9.7987309" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="35.086742" position.y="18.674189" position.z="98.751839"/>
+        <Scale scale.x="13.2284" scale.y="12.466048" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="37.684479" position.y="10.529079" position.z="81.872658"/>
+        <Scale scale.x="12.105015" scale.y="10.135349" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="34.550838" position.y="16.513199" position.z="84.890938"/>
+        <Scale scale.x="5.9140291" scale.y="8.6445198" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="62.623577" position.y="5.4284611" position.z="46.388378"/>
+        <Scale scale.x="14.88525" scale.y="9.4569225" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="70.875168" position.y="5.1894011" position.z="57.718678"/>
+        <Scale scale.x="5.0891142" scale.y="8.7788019" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="63.566601" position.y="6.3358288" position.z="59.555893"/>
+        <Scale scale.x="11.017639" scale.y="11.071657" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="61.382694" position.y="4.9606133" position.z="58.448681"/>
+        <Scale scale.x="9.5078888" scale.y="8.5212259" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="70.639572" position.y="7.2130318" position.z="52.333992"/>
+        <Scale scale.x="12.833185" scale.y="13.026063" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="106.96002" position.y="6.7333808" position.z="92.753647"/>
+        <Scale scale.x="13.759727" scale.y="12.266762" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="97.083626" position.y="3.9116917" position.z="78.945854"/>
+        <Scale scale.x="10.393536" scale.y="6.4233832" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="103.43513" position.y="4.2044921" position.z="91.112366"/>
+        <Scale scale.x="13.622395" scale.y="7.0960112" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="100.072" position.y="8.0984745" position.z="82.088036"/>
+        <Scale scale.x="14.967956" scale.y="14.996948" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="104.64489" position.y="4.6864042" position.z="74.714157"/>
+        <Scale scale.x="7.6621294" scale.y="7.9728079" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="167.92632" position.y="9.8979206" position.z="128.87303"/>
+        <Scale scale.x="8.7586594" scale.y="5.9262366" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="159.89995" position.y="16.255295" position.z="133.20667"/>
+        <Scale scale.x="5.0878935" scale.y="14.187902" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="171.13443" position.y="15.677818" position.z="142.27859"/>
+        <Scale scale.x="10.879086" scale.y="11.911832" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="169.25693" position.y="10.908677" position.z="137.11792"/>
+        <Scale scale.x="9.8493919" scale.y="7.0535908" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="169.27097" position.y="13.937395" position.z="129.91432"/>
+        <Scale scale.x="9.579607" scale.y="14.491562" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="87.021606" position.y="7.1756721" position.z="169.60818"/>
+        <Scale scale.x="10.990479" scale.y="8.8523512" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="75.352547" position.y="4.8136005" position.z="161.93095"/>
+        <Scale scale.x="10.724051" scale.y="8.6133919" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="82.663559" position.y="10.79361" position.z="177.22867"/>
+        <Scale scale.x="9.2515335" scale.y="13.02881" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="75.701065" position.y="5.1278052" position.z="170.57501"/>
+        <Scale scale.x="12.515488" scale.y="8.4556103" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="86.316628" position.y="4.7601867" position.z="167.52499"/>
+        <Scale scale.x="9.9189739" scale.y="5.6353955" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="113.49773" position.y="8.0479174" position.z="39.84407"/>
+        <Scale scale.x="6.4749594" scale.y="14.495834" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="119.19737" position.y="5.1152439" position.z="23.149229"/>
+        <Scale scale.x="11.928923" scale.y="8.030488" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="113.73089" position.y="6.7159371" position.z="39.286804"/>
+        <Scale scale.x="14.666127" scale.y="11.831874" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="114.49324" position.y="6.3595691" position.z="25.299564"/>
+        <Scale scale.x="13.216804" scale.y="10.82049" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="113.77728" position.y="5.6943088" position.z="31.820148"/>
+        <Scale scale.x="13.171941" scale.y="9.7526474" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="3.8692312" position.y="5.4279552" position.z="190.53978"/>
+        <Scale scale.x="12.320169" scale.y="9.0559101" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="12.715937" position.y="7.0792599" position.z="188.67082"/>
+        <Scale scale.x="11.822412" scale.y="12.558519" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="14.971254" position.y="5.3390455" position.z="179.86684"/>
+        <Scale scale.x="6.2302012" scale.y="8.678091" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="6.8020592" position.y="6.9149203" position.z="181.25848"/>
+        <Scale scale.x="10.170141" scale.y="11.629841" scale.z="1"/>
+    </BillBoard>
+    <BillBoard>
+        <Position position.x="9.2685652" position.y="8.0715961" position.z="186.08469"/>
+        <Scale scale.x="14.493393" scale.y="14.213843" scale.z="1"/>
+    </BillBoard>
+</Tree>
